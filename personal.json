@@ -1,0 +1,170 @@
+{
+    "__class__": "ListaPersonal",
+    "personal": [
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cu": "20-30200614-9",
+                "ape": "Rodriguez",
+                "nom": "Juan",
+                "suel": 20000,
+                "anti": 3,
+                "carre": "TUPW",
+                "car": "simple",
+                "cat": "Analisis 1"
+            }
+        },
+        {
+            "__class__": "Apoyo",
+            "__atributos__": {
+                "cu": "27-10255123-6",
+                "ape": "Avila",
+                "nom": "Alberto",
+                "suel": 34000,
+                "anti": 5,
+                "cate": 7
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cu": " 23-04430309-4",
+                "ape": "Molina",
+                "nom": "Carlos",
+                "suel": 15000,
+                "anti": 2,
+                "area": "LIA 2",
+                "tipo": "Procedimental"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cu": "27-10604821-0",
+                "ape": "Cornejos",
+                "nom": "Marcos",
+                "suel": 43500,
+                "anti": 7,
+                "carre": "Abogacia",
+                "car": "simple",
+                "cat": "Poo",
+                "area": "Laboratorio",
+                "tipo": "Aplicada",
+                "catInc": "II",
+                "imp": 5000
+            }
+        },
+        {
+            "__class__": "Apoyo",
+            "__atributos__": {
+                "cu": "27-11077410-4",
+                "ape": "Morales",
+                "nom": "Alejandra",
+                "suel": 78000,
+                "anti": 9,
+                "cate": 22
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cu": "20-29332265-2",
+                "ape": "Zoria",
+                "nom": "Alicia",
+                "suel": 35000,
+                "anti": 3,
+                "carre": "Abogacia",
+                "car": "semiexclusivo",
+                "cat": "Procedural",
+                "area": "Zoom",
+                "tipo": "Profunda",
+                "catInc": "II",
+                "imp": 6000
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cu": "20-17944415-2",
+                "ape": "Zarate",
+                "nom": "Ezequiel",
+                "suel": 67000,
+                "anti": 8,
+                "carre": "Geologia",
+                "car": "semiexclusivo",
+                "cat": "Sistemas"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cu": "27-04209000-5",
+                "ape": "Fernandez",
+                "nom": "Pedro",
+                "suel": 120000,
+                "anti": 12,
+                "area": "Laboratorio",
+                "tipo": "Discreta"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cu": "27-05883446-2",
+                "ape": "Perez",
+                "nom": "Enzo",
+                "suel": 98000,
+                "anti": 9,
+                "carre": "LCC",
+                "car": "exclusivo",
+                "cat": "MB",
+                "area": "Laboratorio",
+                "tipo": "Basica",
+                "catInc": "V",
+                "imp": 7950
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cu": "20-07381272-1",
+                "ape": "Guardia",
+                "nom": "Martin",
+                "suel": 23900,
+                "anti": 1,
+                "area": "Subsuelo",
+                "tipo": "Aplicada"
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cu": "23-33004025-4",
+                "ape": "Flores",
+                "nom": "Florencia",
+                "suel": 60000,
+                "anti": 5,
+                "carre": "Astronomia",
+                "car": "semiexclusivo",
+                "cat": "Estructuras 2"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cu": "20-12062875-6",
+                "ape": "Carbajal",
+                "nom": "Agustina",
+                "suel": 65000,
+                "anti": 7,
+                "carre": "TUPW",
+                "car": "simple",
+                "cat": "Analisis 2",
+                "area": "LIA 1",
+                "tipo": "Basica",
+                "catInc": "II",
+                "imp": 7500
+            }
+        }
+    ]
+}
